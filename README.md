@@ -1,6 +1,6 @@
 ## Ex. No 1. 	Basic Connectivity between Two PCs Using a Switch
-# Date : 		
-
+# Date : 		25.10.2026
+# NAME : Dinesh sree vathsan A
 # Objective
 
           “To configure and test basic LAN connectivity between two PCs using a switch.”
@@ -12,7 +12,9 @@ ________________________________________
 ________________________________________
 # Network Topology Diagram
 
-Insert the network topology from Packet Tracer (Screenshot or drawing)
+<img width="1917" height="1198" alt="image" src="https://github.com/user-attachments/assets/c5293af8-b198-42a9-82ff-c1b196373b97" />
+
+
 
 ________________________________________
 # IP Addressing Table (if applicable)
@@ -39,6 +41,23 @@ For Router Configuration (CLI):<br>
 
 ________________________________________
 # Output (Screenshots / Ping Results)
+-PC0 configuration image:
+
+<img width="1917" height="1198" alt="image" src="https://github.com/user-attachments/assets/03e831c6-4b92-4d62-bd1e-d4ac569fedc1" />
+
+
+
+-Switch configuration image:
+
+<img width="1917" height="1198" alt="image" src="https://github.com/user-attachments/assets/aba1f708-f7f0-4f0c-be5e-337a0b7ba38c" />
+
+
+-ping successfull image:
+
+<img width="1917" height="1198" alt="image" src="https://github.com/user-attachments/assets/c7692439-0e33-48c7-bde5-cba440d7005c" />
+
+
+
 
 Insert screenshots showing ping success, configuration, or simulation results.
 ________________________________________
