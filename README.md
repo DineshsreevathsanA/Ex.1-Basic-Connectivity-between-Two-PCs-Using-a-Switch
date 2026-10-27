@@ -10,20 +10,7 @@ ________________________________________
 •	Devices: PCs, Switch, Router, Cables
 •	Optional: Wireless Router, Server, Cloud
 ________________________________________
-# Network Topology Diagram
 
-## Ex. No 1. 	Basic Connectivity between Two PCs Using a Switch
-# Date : 		25.10.2026
-# NAME : JEHU PHINEHAS J 212224060109
-# Objective
-
-          “To configure and test basic LAN connectivity between two PCs using a switch.”
-________________________________________
-# Apparatus/Tools Required
-•	Cisco Packet Tracer Software
-•	Devices: PCs, Switch, Router, Cables
-•	Optional: Wireless Router, Server, Cloud
-________________________________________
 # Network Topology Diagram
 
 <img width="1920" height="1200" alt="Screenshot (295)" src="https://github.com/user-attachments/assets/51e7ff5b-e83f-4950-aa4f-6f3a29056c55" />
