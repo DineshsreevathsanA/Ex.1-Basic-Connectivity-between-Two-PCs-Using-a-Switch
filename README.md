@@ -1,6 +1,6 @@
 ## Ex. No 1. 	Basic Connectivity between Two PCs Using a Switch
-# Date : 		
-
+# Date : 		25.10.2026
+# NAME : Dinesh sree vathsan A
 # Objective
 
           “To configure and test basic LAN connectivity between two PCs using a switch.”
@@ -12,7 +12,24 @@ ________________________________________
 ________________________________________
 # Network Topology Diagram
 
-Insert the network topology from Packet Tracer (Screenshot or drawing)
+## Ex. No 1. 	Basic Connectivity between Two PCs Using a Switch
+# Date : 		25.10.2026
+# NAME : JEHU PHINEHAS J 212224060109
+# Objective
+
+          “To configure and test basic LAN connectivity between two PCs using a switch.”
+________________________________________
+# Apparatus/Tools Required
+•	Cisco Packet Tracer Software
+•	Devices: PCs, Switch, Router, Cables
+•	Optional: Wireless Router, Server, Cloud
+________________________________________
+# Network Topology Diagram
+
+<img width="1920" height="1200" alt="Screenshot (295)" src="https://github.com/user-attachments/assets/51e7ff5b-e83f-4950-aa4f-6f3a29056c55" />
+
+
+
 
 ________________________________________
 # IP Addressing Table (if applicable)
@@ -39,6 +56,75 @@ For Router Configuration (CLI):<br>
 
 ________________________________________
 # Output (Screenshots / Ping Results)
+-PC0 configuration image:
+
+<img width="1920" height="1200" alt="Screenshot (296)" src="https://github.com/user-attachments/assets/dbb110fb-3549-4628-9123-1bbbdd6aab97" />
+
+
+
+
+-Switch configuration image:
+
+<img width="1920" height="1200" alt="Screenshot (297)" src="https://github.com/user-attachments/assets/879c96f9-c22a-4084-b346-6802d4c2abca" />
+
+
+-ping successfull image:
+<img width="1920" height="1200" alt="Screenshot (298)" src="https://github.com/user-attachments/assets/2aeb030b-3147-4bc8-8565-0cacbe46e286" />
+
+
+
+
+
+Insert screenshots showing ping success, configuration, or simulation results.
+________________________________________
+# Result
+“Successfully configured and verified basic LAN communication between two PCs using a switch in Cisco Packet Tracer.”
+	
+
+
+
+________________________________________
+# IP Addressing Table (if applicable)
+Device Name	Interface	IP Address	Subnet Mask
+PC0	NIC	192.168.1.2	255.255.255.0
+PC1	NIC	192.168.1.3	255.255.255.0
+Router0	Fa0/0	192.168.1.1	255.255.255.0
+________________________________________
+# Procedure
+Step-by-step commands/configurations.
+Example:
+1.	Open Cisco Packet Tracer and add two PCs and one Switch.
+2.	Connect the PCs to the switch using straight-through cables.
+3.	Assign IP addresses to the PCs.
+4.	Use the ping command to verify connectivity.
+________________________________________
+# Commands Used (if any)
+
+For PC IP assignment:<br>
+nginx<br>
+CopyEdit<br>
+Desktop > IP Configuration > Enter IP: 192.168.1.2 / Subnet: 255.255.255.0<br>
+For Router Configuration (CLI):<br>
+
+________________________________________
+# Output (Screenshots / Ping Results)
+-PC0 configuration image:
+
+<img width="1917" height="1198" alt="image" src="https://github.com/user-attachments/assets/03e831c6-4b92-4d62-bd1e-d4ac569fedc1" />
+
+
+
+-Switch configuration image:
+
+<img width="1917" height="1198" alt="image" src="https://github.com/user-attachments/assets/aba1f708-f7f0-4f0c-be5e-337a0b7ba38c" />
+
+
+-ping successfull image:
+
+<img width="1917" height="1198" alt="image" src="https://github.com/user-attachments/assets/c7692439-0e33-48c7-bde5-cba440d7005c" />
+
+
+
 
 Insert screenshots showing ping success, configuration, or simulation results.
 ________________________________________
